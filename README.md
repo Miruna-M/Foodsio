@@ -1,5 +1,6 @@
-# Foodsio
-This is a food recipe finder application that can be used on both a PC screen and a mobile device in order to make it more easily accessible. To find recipe ideas, the user just has to search for the ingredient they intend on using, and the website will load up a number of recipes using that ingredient. This website is useful because when someone has an ingredient they want to use, they can just type the ingredient into the search bar and see all the foods they can make, complete with a scroll bar. 
+# Recipe Finder
+This is a food recipe finder application utilizing an external API that can be rendered on both a PC screen and a mobile device in order to make it more easily accessible. To find recipe ideas, the user just has to search for the ingredient they intend on using, and the website will load up a number of recipes using that ingredient. 
+Nowadays, this website is more useful than ever: in a time when many people do not know how to cook, this website makes cooking easy and convenient. When someone has an ingredient they want to use to cook something, they can just type the ingredient into the search bar and see all the foods they can make, complete with a scroll bar. 
 
 The website uses the Recipe Search API from: https://developer.edamam.com/edamam-recipe-api
 
