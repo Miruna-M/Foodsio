@@ -30,7 +30,7 @@ const setScrollPosition = () => {
 }
 
 // Search Functionality
-function loadRecipes(type="egg"){ // default value
+function loadRecipes(type="fish"){ // default value
     toggleLoad(loadingEle, false);
     const url=baseUrl + `&q=${type}`;
     fetch(url)
